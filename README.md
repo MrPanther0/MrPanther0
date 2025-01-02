@@ -10,7 +10,7 @@ I thrive on discovering vulnerabilities and securing systems. With a passion for
 
 ## 🔗 My TryHackMe Profile
 
-Check out my progress on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/YOURUSERNAME)
+Check out my progress on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/MrPanther)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MrPanther0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
