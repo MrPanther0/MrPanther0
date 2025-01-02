@@ -6,9 +6,12 @@
 
 I thrive on discovering vulnerabilities and securing systems. With a passion for ethical hacking and a deep curiosity about cybersecurity, I aim to protect and defend the digital world. From penetration testing to building custom security tools, I'm always up for a challenge!
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=473476)
+![TryHackMe Badge](https://tryhackme.com/api/badge/svg/473476)
 
 ## 🔗 My TryHackMe Profile
+
+Check out my progress on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/473476)
+
 
 Check out my progress on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/MrPanther)
 
